@@ -1,13 +1,7 @@
 # freecodecamp projects: survey form
+Github pages deploy: [https://gperilli.github.io/freecodecamp-form/](https://gperilli.github.io/freecodecamp-form/)
 
-|   |   |
-|---|---|
-| <img src="assets/img/template.png" width="80%" />  | <img src="assets/img/demo.png" width="80%" />   |
-| [template](https://gperilli.github.io/freecodecamp-form/) | [demo](https://gperilli.github.io/freecodecamp-form/demo) |
-
-
-This is a HTML single page form template and demo. The design is flat and works best with pastel colours. The original form project came from the freecodecamp responsive web design course [https://www.freecodecamp.org/learn/2022/responsive-web-design/](https://www.freecodecamp.org/learn/2022/responsive-web-design/). The template allows for some basic colour and box-shadow editing.
-
+This is a HTML single page form created for the freecodecamp web deisgn course: [https://www.freecodecamp.org/learn/2022/responsive-web-design/](https://www.freecodecamp.org/learn/2022/responsive-web-design/). The template allows for some basic colour and box-shadow editing.
 
 
 ## Built With
@@ -19,7 +13,8 @@ This is a HTML single page form template and demo. The design is flat and works 
 
 Either do a direct download using the download option from the code button dropdown near the top of this Github page, or use a git clone command:
 ```
-git@github.com:gperilli/form.git
+git clone git@github.com:gperilli/form.git
+cd freecodecamp-form
 ```
 <br>
 
