@@ -1,21 +1,11 @@
 {
-  "name": "form template",
+  "name": "freecodecamp-form",
   "version": "1.0.0",
-  "description": "A form template based pm the freecodecamp form project",
+  "description": "A form template based on the freecodecamp form project",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack",
-    "deploy": "git config --global user.email 'actions@github.com' && git config --global user.name 'GitHub Actions' && npm run deploy-gh-pages",
-    "deploy-gh-pages": "gh-pages -d dist -r https://github.com/gperilli/templates-form.git -u $GH_TOKEN"
-  },
   "author": "Gareth Perilli",
   "license": "ISC",
   "dependencies": {
-    "lil-gui": "^0.19.1",
-    "webpack": "^5.89.0"
-  },
-  "devDependencies": {
-    "webpack-cli": "^5.1.4"
+    "lil-gui": "^0.19.1"
   }
 }
